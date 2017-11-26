@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: Nov 23, 2017
- *      Author: vdivakar
+ *      Author: Vinay Divakar
  */
 
 /* Standard Includes */
